@@ -1,0 +1,1 @@
+[{"flight_id": "ABC123", "departure": "Delhi", "arrival": "Mumbai", "status": "On Time", "scheduled_time": "30-07-2024 14:30", "Gate": 7}, {"flight_id": "DEF456", "departure": "Kolkata", "arrival": "Bhopal", "status": "Postponted", "scheduled_time": "30-07-2024 16:00", "Gate": 4}]
